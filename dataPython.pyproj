@@ -27,6 +27,9 @@
     <Compile Include="candies.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="circleOfNumbers.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="codeSignal.py">
       <SubType>Code</SubType>
     </Compile>

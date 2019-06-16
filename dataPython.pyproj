@@ -24,6 +24,9 @@
     <Compile Include="addTwoDigits.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="arithmeticExpression.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="candies.py">
       <SubType>Code</SubType>
     </Compile>

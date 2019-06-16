@@ -1,7 +1,7 @@
 import sqlite3
 conn=sqlite3.connect('DB/hr.db')
 if conn:
-    print ('this 2222222221')
+    print ('this ')
 c=conn.cursor()
 
 #c.execute("INSERT INTO COMPANY VALUES ('1','SAMY','LONDON')")

@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="dataPython.py" />
+    <Compile Include="largestNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="prime factors.py">
       <SubType>Code</SubType>
     </Compile>

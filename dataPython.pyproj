@@ -67,6 +67,9 @@
     <Compile Include="seatsInTheater.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="tennisSet.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DB\" />

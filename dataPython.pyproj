@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="addTwoDigits.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="codeSignal.py">
       <SubType>Code</SubType>
     </Compile>

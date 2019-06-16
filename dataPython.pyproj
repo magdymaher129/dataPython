@@ -43,6 +43,9 @@
     <Compile Include="maxMultiple.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="phoneCall.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="prime factors.py">
       <SubType>Code</SubType>
     </Compile>

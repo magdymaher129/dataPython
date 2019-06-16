@@ -34,6 +34,9 @@
     <Compile Include="largestNumber.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="maxMultiple.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="prime factors.py">
       <SubType>Code</SubType>
     </Compile>

@@ -49,6 +49,9 @@
     <Compile Include="prime factors.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="reachNextLevel.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="seatsInTheater.py">
       <SubType>Code</SubType>
     </Compile>

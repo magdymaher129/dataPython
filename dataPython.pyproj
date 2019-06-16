@@ -34,6 +34,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="dataPython.py" />
+    <Compile Include="extraNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="knapsackLight.py">
       <SubType>Code</SubType>
     </Compile>

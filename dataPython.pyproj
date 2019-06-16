@@ -37,6 +37,9 @@
     <Compile Include="largestNumber.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="lateRide.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="maxMultiple.py">
       <SubType>Code</SubType>
     </Compile>

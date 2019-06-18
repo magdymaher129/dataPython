@@ -40,6 +40,12 @@
     <Compile Include="extraNumber.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="findMostFrequentElement.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="gui.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="isInfiniteProcess.py">
       <SubType>Code</SubType>
     </Compile>

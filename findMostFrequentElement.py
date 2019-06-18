@@ -4,7 +4,7 @@ from statistics import mode
 
 '''
 given a list ,find the most frequent element in it .
-if there are multible elements that appear maxiimum number of times ,
+if there are multible elements that appear maximum number of times ,
 '''
 def most_frequent(list):
     counter =list.count(0)
